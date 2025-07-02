@@ -1,6 +1,6 @@
 {
   "frame": {
-    "name": "h",
+    "name": "app",
     "version": "1",
     "iconUrl": "https://f-demo.vercel.app/logo.png",
     "homeUrl": "https://f-demo.vercel.app/logo.png",
